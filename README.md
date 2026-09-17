@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Jose Ivan
+## 👋 &nbsp;Hey there! I'm Jose TI
 
 ### 👩‍💻️ &nbsp;About Me
 
