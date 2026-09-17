@@ -40,4 +40,3 @@
 </a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joset2804&theme=dracula)](https://git.io/streak-stats)
